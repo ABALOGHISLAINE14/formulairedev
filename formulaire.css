@@ -1,0 +1,41 @@
+body {
+    background-color: #A9D7E9;
+}
+p {
+    text-transform: capitalize;
+    font-size: 50px;
+    text-align: center;
+}
+
+form {
+    background-color: #F3F3F3;
+    display: block;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.gdiv {
+    display: flex;
+    padding: 10px;
+}
+
+.div1,
+.div2 {
+    width: 50%;
+    padding: 10px;
+} 
+
+.div1 {
+    text-align: right;
+}
+#btn {
+    margin: auto;
+    width: 80px;
+    height: 30px;
+    background-color: #6BA2CE;
+    color: white;
+    border: 2px solid #6BA2CE;
+    border-radius: 10px;
+
+}
